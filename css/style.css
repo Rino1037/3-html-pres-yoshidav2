@@ -1,0 +1,153 @@
+body {
+    margin: 0 auto;
+}
+
+body, html, section {
+    width: 100%;
+    height: 100%;
+}
+
+.mySlides {display:none;}
+
+h1, h2, h3, h4, h5, h6, p{
+    font-family: 'Handlee', cursive;
+    font-size: 4vw;
+}
+
+.fs-img-1 {
+  /* The image used */
+  background-image: url("/img/astronomy-dark-design.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.black-shadow {
+    text-shadow: 4px 4px 10px rgba(0,0,0)
+}
+
+caption{
+    font-size: 8px;
+}
+
+/* pclass wo tukaeeee*/
+
+.fs-img-2 {
+  /* The image used */
+  background-image: url("/img/backlit-dawn-desert.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.fs-img-3 {
+  /* The image used */
+  background-image: url("/img/black-and-white-city-crosswalk.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.img4-01 {
+  /* The image used */
+  background-image: url("/img/man-and-woman-forming-heart-hand-shape-1066801.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.img4-02 {
+  /* The image used */
+  background-image: url("/img/adult-affection-beads-blur-371285.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.img4-03 {
+  /* The image used */
+  background-image: url("/img/photo-of-sneakers-1800055.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.img4-04 {
+  /* The image used */
+  background-image: url("/img/photo-of-four-girls-wearing-school-uniform-doing-hand-signs-710743.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.fs-img-8 {
+  /* The image used */
+  background-image: url("");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.fs-img-9 {
+  /* The image used */
+  background-image: url("");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#video-1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  overflow: hidden;
+
+}
